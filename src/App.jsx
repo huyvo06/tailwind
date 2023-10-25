@@ -23,8 +23,8 @@ function App() {
           <div className='Portfolio'>
           <div className='container mx-auto px-[50px] flex flex-col gap-[36px]'>
             <h1 className='font-anton font-normal text-[64px] leading-[64px]'>PORTFOLIO</h1>
-            <div className='flex flex-wrap gap-[33px]'>
-              <div className='border border-grayPtf rounded-[10px] p-[30px] flex flex-col gap-[23px] xl:w-[23%] lg:w-[31%] sm:w-[47%] w-[100%]'>
+            <div className='flex flex-wrap gap-[25px]'>
+              <div className='border border-grayPtf rounded-[10px] p-[20px] flex flex-col gap-[20px] xl:w-[23%] lg:w-[31%] sm:w-[47%] w-[100%]'>
                 <Portfolio/>
               </div>
               <div className='border border-grayPtf rounded-[10px] p-[30px] flex flex-col gap-[23px] xl:w-[23%] lg:w-[31%] sm:w-[47%] w-[100%]'>
